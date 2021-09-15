@@ -2,7 +2,7 @@ import { summary } from './functions/summary.js';
 import { getRate, getGrade } from './functions/addition.js';
 import Life from './life.js';
 
-const pointNum = 240
+const pointNum = 4000
 const talentNum = 5
 
 class App{
